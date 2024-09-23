@@ -12,7 +12,6 @@ Welcome to the MOTD (Message of the Day) script for macOS Terminal! This script 
 ## Prerequisites
 
 - macOS Terminal
-- Bash shell
 - ANSI-compatible terminal for color output
 
 ## Installation
@@ -38,7 +37,7 @@ Welcome to the MOTD (Message of the Day) script for macOS Terminal! This script 
 4. **Add the MOTD script to your `.bash_profile` to run it automatically when a shell is launched:**
 
     ```sh
-    echo "~/path/to/motd/motd.sh" >> ~/.bash_profile
+    echo "~/path/to/motd/motd.sh" >> ~/.zprofile
     ```
 
     Replace `~/path/to/motd/` with the actual path to the cloned repository.
