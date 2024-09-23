@@ -63,7 +63,7 @@ Simply open your terminal, and the MOTD script will run automatically, displayin
 
 ## Customization
 
-You can customize the MOTD script by editing `motd.sh` and the individual scripts (`sysinfo.sh`, `services2.sh`, `cpu.sh`, `disk.sh`, `flag.sh`) to suit your preferences.
+You can customize the MOTD script by editing `motd.sh` and the individual scripts (`sysinfo.sh`, `services.sh`, `cpu.sh`, `disk.sh`, `flag.sh`) to suit your preferences.
 
 ## Contribution
 
