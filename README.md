@@ -56,7 +56,7 @@ Simply open your terminal, and the MOTD script will run automatically, displayin
 - `motd.sh`: Main script to display the MOTD.
 - `apple.txt`: Contains the ASCII art for the Apple logo.
 - `sysinfo.sh`: Script to display system information.
-- `services2.sh`: Script to display active services.
+- `services.sh`: Script to display active services.
 - `cpu.sh`: Script to display CPU usage information.
 - `disk.sh`: Script to display disk usage information.
 - `flag.sh`: Script to display the Indonesian flags.
